@@ -37,6 +37,11 @@ zhanghuiqiao@zhanghuiqiaodeMacBook-Pro ~ %
 location image:
 <br>https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Carla%20Bruni%20-%20French%20Touch%20(Official%20Trailer)%20downloading.png
 
+### Make sure link look like this below, and "Y8oeYYaceOE" is the video id.
+```
+https://www.youtube.com/watch?v=Y8oeYYaceOE
+```
+
 3.Reference Link:
 <br>youtube-dl
 <br>https://github.com/ytdl-org/youtube-dl/blob/master/README.md#readme
