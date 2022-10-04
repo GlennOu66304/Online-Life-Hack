@@ -6,10 +6,13 @@
 [Source code Search.md](https://github.com/GlennOu66304/Full-Stack-Development/blob/master/Backend/Source%20code%20Search.md).     
 [Download the certain folder of the github repo.md](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/3.github_Using/Download%20the%20certain%20folder%20of%20the%20github%20repo.md). 
 
+# Chrome
 ## Site Cache Clear
 [chrome](https://www.cnblogs.com/Chesky/p/chrome_disabling_cache.html)   
 [Safari](https://wpbeaches.com/where-are-the-safari-web-developer-tools-and-how-to-show-and-dock-them-in-a-browser-window/)   
 [different browsers](https://www.lifewire.com/clear-cookies-for-one-site-4587347)   
+
+## [完美解决 Chrome / Edge 浏览器卡顿缓慢的问题](https://www.iplaysoft.com/fix-chrome-slow.html)   
 # Work Efficient
 
 1.AlfredWorkflow.com
